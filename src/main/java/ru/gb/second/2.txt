@@ -1,0 +1,6 @@
+Для класса Car нужно сделать builder, в интерфейсах Moveable, Stopable можно сделать дефолтную реализацию методов move(); и stop();
+
+В строке "class Lorry extends Car, Moveable, Stopable" интерфейсы должны имплементироваться:
+"class Lorry extends Car implements Moveable, Stopable"
+
+Класс LightWeightCar наверное тоже должен имплементировать интерфейс Stopable.

@@ -1,5 +1,7 @@
-package ru.gb.person;
+package ru.gb.first;
 
+import java.io.Serializable;
+import java.io.StringWriter;
 import java.util.Objects;
 
 public class Person {
